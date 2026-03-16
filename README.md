@@ -21,3 +21,12 @@ The analysis shows that customers who do not subscribe to support-related servic
 ## Conclusion
 
 The results suggest that service reliability and support features play an important role in retaining customers. Providing additional support services and improving overall service quality can help reduce churn and improve long-term customer relationships.
+
+## Some screenshots from the notebook
+
+![Plot 1](s1.png)
+
+![Plot 2](s2.png)
+
+![Plot 1](s3.png)
+
